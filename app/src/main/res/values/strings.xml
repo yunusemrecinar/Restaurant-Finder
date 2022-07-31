@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestaurantFinderWorkBench</string>
+    <string name="login_username">Enter your username :</string>
+    <string name="login_password">Password :</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="verify_password">Verify Your Password</string>
+
+</resources>
