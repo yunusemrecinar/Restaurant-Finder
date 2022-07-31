@@ -3,11 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/emrecinar/RestaurantFinderWorkBench/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/emrecinar/RestaurantFinderWorkBench/app/src/main/res/layout/activity_main_menu.xml" value="0.18854166666666666" />
-        <entry key="..\:/Users/emrecinar/RestaurantFinderWorkBench/app/src/main/res/layout/activity_register.xml" value="0.33" />
-        <entry key="..\:/Users/emrecinar/RestaurantFinderWorkBench/app/src/main/res/layout/fragment_register.xml" value="0.25" />
-        <entry key="..\:/Users/emrecinar/RestaurantFinderWorkBench/app/src/main/res/layout/registration.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/drawable/ic_baseline_red_24.xml" value="0.348" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/drawable/ic_baseline_shadow_24.xml" value="0.348" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/drawable/ic_wanttogo_red_24.xml" value="0.2995" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_favorites.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_google_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_login.xml" value="0.29518072289156627" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_restaurant.xml" value="0.25" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_sign_up.xml" value="0.34057971014492755" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/activity_want_to_go.xml" value="0.25" />
+        <entry key="..\:/Users/emrecinar/Restaurant_Finder/app/src/main/res/layout/list_view.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

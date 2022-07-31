@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693271650510",
+    "project_id": "fir-login-signup-98a5c",
+    "storage_bucket": "fir-login-signup-98a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693271650510:android:9b0171694bd07f7100709f",
+        "android_client_info": {
+          "package_name": "com.emrecinar.xxxx.aa.xa.x.restaurant_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693271650510-h43vj8q6a2dcf3fqvpkmc4gduongpqvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emrecinar.xxxx.aa.xa.x.restaurant_finder",
+            "certificate_hash": "54ef7c11663b030d4293576d02f6c2113888d905"
+          }
+        },
+        {
+          "client_id": "693271650510-mr7246fqijbht0096pm5vmu49c5o1m2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxC40dC0v5DClBnJouur1Gdj2jZ3gktg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693271650510-mr7246fqijbht0096pm5vmu49c5o1m2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
